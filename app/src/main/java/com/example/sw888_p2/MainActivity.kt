@@ -53,8 +53,6 @@ class MainActivity : AppCompatActivity() {
             AItem(2, "Burger", "$7.99", "Could be better",R.drawable.burger),
             AItem(3, "Chicken", "$6.99", "The best chicken.",R.drawable.chicken),
             AItem(4, "French Fries", "$4.99", "Freedom Fries.",R.drawable.fries)
-            // ... add more items
         )
-        // Make sure you have 'item_image_1.png', 'item_image_2.png', 'item_image_3.png' in res/drawable
     }
 }
